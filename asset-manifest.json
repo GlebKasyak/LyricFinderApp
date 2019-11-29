@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LyricFinderApp/static/css/main.8f5811d7.chunk.css",
+    "main.js": "/LyricFinderApp/static/js/main.c345b340.chunk.js",
+    "main.js.map": "/LyricFinderApp/static/js/main.c345b340.chunk.js.map",
+    "runtime-main.js": "/LyricFinderApp/static/js/runtime-main.18442056.js",
+    "runtime-main.js.map": "/LyricFinderApp/static/js/runtime-main.18442056.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/LyricFinderApp/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.746bffdd.chunk.js": "/LyricFinderApp/static/js/2.746bffdd.chunk.js",
+    "static/js/2.746bffdd.chunk.js.map": "/LyricFinderApp/static/js/2.746bffdd.chunk.js.map",
+    "index.html": "/LyricFinderApp/index.html",
+    "precache-manifest.0d401ed27939318d5f7977f7c0d1df0b.js": "/LyricFinderApp/precache-manifest.0d401ed27939318d5f7977f7c0d1df0b.js",
+    "service-worker.js": "/LyricFinderApp/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/LyricFinderApp/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.8f5811d7.chunk.css.map": "/LyricFinderApp/static/css/main.8f5811d7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18442056.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.746bffdd.chunk.js",
+    "static/css/main.8f5811d7.chunk.css",
+    "static/js/main.c345b340.chunk.js"
+  ]
+}
